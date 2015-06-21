@@ -24,4 +24,12 @@ Cookie Clicker ( http://orteil.dashnet.org/cookieclicker/ )
 
 ライセンス
 -----------------------
-Apache License 2.0
+Apache License 2.0 (LICENSE ファイルを参照)
+
+作者
+-----------------------
+まつゆき/rmn. 
+
+http://rmn-web.net/
+
+https://twitter.com/rmn_e
