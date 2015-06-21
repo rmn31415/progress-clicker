@@ -30,6 +30,4 @@ Apache License 2.0 (LICENSE ファイルを参照)
 -----------------------
 まつゆき/rmn. 
 
-http://rmn-web.net/
-
-https://twitter.com/rmn_e
+Website: [rmn-web.net](http://rmn-web.net/), Twitter: @[rmn_e](https://twitter.com/rmn_e)
