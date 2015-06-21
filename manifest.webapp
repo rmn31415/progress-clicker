@@ -1,0 +1,16 @@
+{
+  "name": "進捗Clicker",
+  "description": "クリックでセキュリティ・キャンプの事前学習を進めるシミュレーションができます.",
+  "launch_path": "/app.html",
+  "icons": {
+    "128": "/images/shin128.png",
+    "64": "/images/shin64.png"
+  },
+  "version": "0.0001",
+  "developer": {
+    "name": "Atsumu Matsui",
+    "url": "http://rmn-web.net"
+  },
+  "default_locale": "ja",
+  "orientation": "portrait"
+}
